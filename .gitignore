@@ -1,0 +1,43 @@
+# Java compiled files
+target/
+*.class
+*.jar
+*.war
+
+# Maven
+.mvn/wrapper/maven-wrapper.jar
+
+# React
+frontend/node_modules/
+frontend/build/
+frontend/.env
+
+# SECRETS - never push these
+src/main/resources/application.properties
+
+# Create this file locally with your real keys
+# application-local.properties
+
+# IDE
+.idea/
+*.iml
+.vscode/
+*.suo
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Audio recordings
+medical-scribe-audio/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
