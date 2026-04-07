@@ -15,9 +15,6 @@ frontend/.env
 # SECRETS - never push these
 src/main/resources/application.properties
 
-# Create this file locally with your real keys
-# application-local.properties
-
 # IDE
 .idea/
 *.iml

@@ -2,6 +2,10 @@
 
 An AI-powered medical scribe that converts doctor-patient conversations into structured SOAP notes and exports them as FHIR R4 bundles.
 
+Authors:
+Githinkumaran G 
+Avinash S
+
 What it does:
 
 *Records doctor-patient consultation audio
